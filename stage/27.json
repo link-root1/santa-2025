@@ -1,0 +1,33 @@
+{
+    "map": [
+        "ffffhfff",
+        "f11111ff",
+        "ffhx1hff",
+        "f111111f",
+        "fhhf1hhf",
+        "f111111f",
+        "fffff11h",
+        "ffffff11"
+    ],
+    "limit": 320,
+    "house": 8,
+    "light_time": [
+        250,
+        320,
+        90,
+        180,
+        270,
+        50,
+        320,
+        320
+    ],
+    "santa": [
+        5,
+        5
+    ],
+    "timex": 2.0,
+    "scorex": [
+        true,
+        30
+]
+}
